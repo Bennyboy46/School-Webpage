@@ -53,6 +53,7 @@
     transform: translateY(-50%);
     text-align: center;
     color: #fff;
+    margin-bottom: 20px;
 }
 .content h1{
     font-size: 70px;
@@ -99,4 +100,50 @@ button:hover{
     .content{
         font-size: 62px;
     }
+}
+.about-us{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
+h2{
+    text-align: center;
+    font-weight: 600;
+    margin: 10px 0 ;
+}
+p{
+    line-height: 25px;
+    padding: 10px;
+}
+.us{
+    flex-basis: 31%;
+    background: #fff3f3;
+    border-bottom: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
+}
+.academics{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+    padding-top: 50px;
+}
+h3{
+    text-align: center;
+    font-weight: 600;
+    margin: 10px 0 ;
+}
+p{
+    line-height: 25px;
+    padding: 10px;
+}
+.ac{
+    flex-basis: 32%;
+    background: #fff3f3;
+    border-bottom: 10px;
+    margin-bottom: 5%;
+    padding: 20px 12px;
+    box-sizing: border-box;
 }
